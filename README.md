@@ -1,45 +1,82 @@
-# 🎮 PlayMateZ - Your Ultimate Gaming Companion Platform
+# 🎮 PlayMateZ - Find Your Perfect Gaming Companion
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Project Status](https://img.shields.io/badge/Status-Active-success)
+![Course](https://img.shields.io/badge/Course-Fullstack%20Web%20Development-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**PlayMateZ** is a responsive web platform designed to connect gamers with professional "Playmates." Whether you are looking for a casual friend to chat with, a Pro Player to rank up, or a celebrity streamer experience, PlayMateZ provides a seamless community to end gaming loneliness.
+**PlayMateZ** is a web platform designed to solve the problem of lonely gaming. It connects players with professional or casual gaming companions ("PlayMates") to ensure a fun, non-toxic, and engaging gaming experience.
+
+This project was developed as part of the **Fullstack Web Development** curriculum.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-- **🎨 Modern & Responsive Design:** Built with **Bootstrap 5** and custom CSS, ensuring a smooth experience on both desktop and mobile devices.
-- **🎮 Game Library:** A visual grid showcasing supported games like *RoV, Valorant, PUBG, Genshin Impact*, and more. Includes a "Load More" feature to toggle the full game list.
-- **💰 Tiered Pricing System:** Clear service packages:
-  - **Casual:** ฿50/hr (Friendly gaming)
-  - **Pro Player:** ฿150/hr (Rank boosting & Coaching)
-  - **Celebrity:** ฿500+/hr (Exclusive experience)
-- **🛒 Interactive Booking System:** A JavaScript-powered modal system that simulates the booking and payment process with validation.
-- **👥 About Us Page:** A dedicated team section linking to developers' GitHub profiles.
+- **🎯 Interactive Game Hub:** Browse supported games (RoV, Valorant, PUBG, etc.) with a "Load More" feature to expand the list dynamically.
+- **💰 Tiered Pricing System:** Clear display of service tiers:
+  - *Casual* (Friendly gaming)
+  - *Pro Player* (Coaching & carrying)
+  - *Celebrity* (Exclusive experience)
+- **📝 Booking System (Simulation):** An interactive modal pop-up for booking sessions, capturing user details (IGN, Discord ID, Hours) and payment methods.
+- **📱 Fully Responsive Design:** Optimized for both Desktop and Mobile users using **Bootstrap 5** and custom CSS Media Queries.
+- **🎨 Modern UI/UX:** Features hover effects, gradient backgrounds, and smooth transitions for a premium gaming feel.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** Bootstrap 5.3.0
-- **Styling:** CSS3 (Custom Variables, Gradients, Hover Effects)
-- **Icons:** FontAwesome 6.0
-- **Fonts:** Google Fonts ('Kanit' for a modern Thai/English look)
-- **Logic:** Vanilla JavaScript (DOM Manipulation for Modals and Toggles)
+This project utilizes modern frontend technologies to create a responsive and interactive user interface.
+
+| Technology | Usage |
+| :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Semantic structure and layout. |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Custom styling, animations, and variables (`var(--primary)`). |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | Responsive grid system, Navbar, and utility classes. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | DOM manipulation, Modal logic, and "See More" game toggle. |
+| **FontAwesome** | Scalable vector icons for UI elements. |
+| **Google Fonts** | Typography using the 'Kanit' font family. |
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```bash
 PlayMateZ/
-│
 ├── css/
-│   └── styles.css       # Global styles and responsive rules
-├── index.html           # Main Landing Page (Hero, Features, Pricing)
-├── about.html           # Team Member & Company Info
-└── README.md            # Project Documentation
+│   └── styles.css       # Custom styling (Global variables, Animations, Responsive)
+├── index.html           # Main landing page (Hero, Games, Pricing, Booking Modal)
+├── about.html           # Team information and About Us page
+└── README.md            # Project documentation
+```
+
+## 🚀 How to Run
+
+Since this is a static web application prototype, you can run it directly:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/PhuriphatiZAMU/PlayMateZ.git](https://github.com/PhuriphatiZAMU/PlayMateZ.git)
+
+```
+
+2. **Navigate to the folder:**
+```bash
+cd PlayMateZ
+
+```
+
+
+3. **Launch:**
+* Open `index.html` in your preferred web browser (Chrome, Edge, Firefox).
+* *Optional:* Use the "Live Server" extension in VS Code for the best experience.
+
+
+
+---
+
+## 👥 Meet the Team
+
+| Member | Role | GitHub |
+| --- | --- | --- |
+| **Phuriphat Hemakul** | CEO & Founder / Developer | [](https://github.com/PhuriphatiZAMU) |
+| **Kitkhachon Chirawongrungrueang** | Frontend Developer | [](https://github.com/Kitkhachon-xx) |
