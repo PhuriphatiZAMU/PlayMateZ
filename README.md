@@ -76,7 +76,7 @@ cd PlayMateZ
 
 ## 👥 Meet the Team
 
-| Member | Role | GitHub |
+| Member | Role Playing | GitHub |
 | --- | --- | --- |
-| **Phuriphat Hemakul** | CEO & Founder / Developer | [](https://github.com/PhuriphatiZAMU) |
-| **Kitkhachon Chirawongrungrueang** | Frontend Developer | [](https://github.com/Kitkhachon-xx) |
+| **Phuriphat Hemakul** | CEO & Founder / Developer | [Arm](https://github.com/PhuriphatiZAMU) |
+| **Kitkhachon Chirawongrungrueang** | Frontend Developer | [Jack](https://github.com/Kitkhachon-xx) |
