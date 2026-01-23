@@ -2,7 +2,6 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
 ![Course](https://img.shields.io/badge/Course-Fullstack%20Web%20Development-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **PlayMateZ** is a web platform designed to solve the problem of lonely gaming. It connects players with professional or casual gaming companions ("PlayMates") to ensure a fun, non-toxic, and engaging gaming experience.
 
