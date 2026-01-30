@@ -90,15 +90,15 @@ cd PlayMateZ
 
 ### Landing Page
 
-*(Place your landing page screenshot here)*
+![Landing Page](img/Home.png)
 
 ### Booking Modal
 
-*(Place your booking modal screenshot here)*
+![Booking Modal](img/Booking.png)
 
 ### Mobile View
 
-*(Place your mobile responsive screenshot here)*
+![Mobile View](img/Mobile.png)
 
 ---
 
