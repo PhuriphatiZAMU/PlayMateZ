@@ -104,7 +104,7 @@ cd PlayMateZ
 
 ## 👥 Contributors
 
-| Member | Role | GitHub |
+| Member | Roleplay | GitHub |
 | --- | --- | --- |
 | **Phuriphat Hemakul** | CEO & Founder / Developer | [@PhuriphatiZAMU](https://github.com/PhuriphatiZAMU) |
 | **Kitkhachon Chirawongrungrueang** | Frontend Developer | [@Kitkhachon-xx](https://github.com/Kitkhachon-xx) |
